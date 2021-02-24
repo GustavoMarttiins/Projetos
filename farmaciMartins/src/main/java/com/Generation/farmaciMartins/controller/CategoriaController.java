@@ -19,7 +19,7 @@ import com.Generation.farmaciMartins.model.Categoria;
 import com.Generation.farmaciMartins.repository.CategoriaRepository;
 
 @RestController
-@RequestMapping("/loja")
+@RequestMapping("/categoria")
 @CrossOrigin("*")
 public class CategoriaController {
 
